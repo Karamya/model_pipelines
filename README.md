@@ -1,4 +1,5 @@
 # model_pipelines
+# Thanks to Paweł Jankiewicz
 
 
-The repository is about my learning and experiences with model pipelines
+The repository is based on the course offered by Paweł Jankiewicz at DSR 
